@@ -1,6 +1,6 @@
 1.Mech
 2.Civil
 3.Automobile
-4.CS
+4.CS - CyberSecurity
 5.EEE
 6.ECE
